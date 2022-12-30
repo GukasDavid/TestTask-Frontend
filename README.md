@@ -1,6 +1,10 @@
 
 # Vue.js JWT Authentication with Vuex and Vue Router
 
+
+https://user-images.githubusercontent.com/103846680/210083368-c436351d-5d69-46cd-a443-88c2c31c5fa4.mp4
+
+
 For instruction, please visit:
 > [Vue 2 JWT Authentication with Vuex and Vue Router](https://bezkoder.com/jwt-vue-vuex-authentication/)
 
